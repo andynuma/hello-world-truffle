@@ -1,5 +1,5 @@
 # hello-world-truffle
 truffe tutorial のHello Worldをやってみた
 
-truffe migrate
-truffe test
+'truffe migrate'
+'truffe test'
